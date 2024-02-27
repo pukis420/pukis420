@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pukis420
-- 👀 I’m interested in SQL, SQL servers, HTML, Excel (VBA), ERP's and automatization of everything cuz I'm lazy and hate boring repetitive work. :) 
+- 👀 I’m interested in SQL, SQL servers, HTML, Excel (VBA), ERP's and automatization of everything bcs I'm lazy and hate boring repetitive work. :) 
 - 🌱 I’m currently learning SQL, HTML, Excel VBA. 
 - 📫 How to reach me? Try e-mail vojtech.pukanecz@profid.cz
 
